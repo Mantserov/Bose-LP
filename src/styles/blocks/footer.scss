@@ -1,0 +1,15 @@
+.footer {
+  background-image: url(/src/images/footer.png);
+  height: 200;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+
+  @include onTablet {
+    height: 400px;
+  }
+
+  @include onDesktop {
+    height: 460px;
+  }
+}

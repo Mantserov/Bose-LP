@@ -1,0 +1,11 @@
+.conctacts {
+  &__content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__form {
+    @include pageGrid;
+    margin-bottom: 32px;
+  }
+}
