@@ -24,7 +24,7 @@
 }
 
 .header {
-  background-image: url(/src/images/header-bg.png);
+  background-image: url(../images/header-bg.png);
   background-position: center;
   background-size: cover;
 }
@@ -66,7 +66,7 @@
   }
 }
 .header__waves {
-  background-image: url(/src/images/sound-waves.png);
+  background-image: url(../images/sound-waves.png);
   background-size: cover;
   height: 58px;
   width: 48px;
@@ -147,16 +147,16 @@
   }
 }
 .icon--phone {
-  background-image: url(/src/images/icons/icon-phone.png);
+  background-image: url(../images/icons/icon-phone.png);
 }
 .icon--menu {
-  background-image: url(/src/images/icons/icon-menu.png);
+  background-image: url(../images/icons/icon-menu.png);
 }
 .icon--menu:hover {
-  background-image: url(/src//images/icons/icon-menu-hover.png);
+  background-image: url(..//images/icons/icon-menu-hover.png);
 }
 .icon--close {
-  background-image: url(/src/images/icons/icon-close.png);
+  background-image: url(../images/icons/icon-close.png);
 }
 
 .menu {
@@ -573,7 +573,7 @@
 }
 
 .footer {
-  background-image: url(/src/images/footer.png);
+  background-image: url(../images/footer.png);
   height: 200px;
   width: 100%;
   background-size: cover;
