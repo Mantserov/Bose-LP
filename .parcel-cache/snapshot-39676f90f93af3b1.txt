@@ -1,15 +1,4 @@
-6051
-56D:\IT\Test Tasks\Bose-Landing-Page\node_modules\readdirp133573401740792171 1
-86D:\IT\Test Tasks\Bose-Landing-Page\node_modules\type-fest\source\conditional-pick.d.ts133573395688657971 0
-98D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib133573395733191643 1
-94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_non_iterable_rest\package.json133573395785296599 0
-62D:\IT\Test Tasks\Bose-Landing-Page\node_modules\normalize-path133573401740633582 1
-97D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\es6-string-includes.js133573395788014271 0
-123D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\border.js133573395700589854 0
-73D:\IT\Test Tasks\Bose-Landing-Page\src\images\categories\headphones-2.png133573570443418664 0
-79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\PN.js133573395846545566 0
-65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\term-size\license133573395657003595 0
-84D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_dispose\package.json133573395783606286 0
+6021
 126D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-style-declaration.js133573395724024148 0
 51D:\IT\Test Tasks\Bose-Landing-Page\src\images\icons133573430776500262 1
 64D:\IT\Test Tasks\Bose-Landing-Page\node_modules\domutils\LICENSE133573395633022118 0
@@ -45,18 +34,27 @@
 86D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\css-sel3.js133573395782910296 0
 52D:\IT\Test Tasks\Bose-Landing-Page\src\styles\blocks133573633735172636 1
 69D:\IT\Test Tasks\Bose-Landing-Page\node_modules\dotenv-expand\LICENSE133573395668099249 0
-47D:\IT\Test Tasks\Bose-Landing-Page\package.json133573401748233098 0
+47D:\IT\Test Tasks\Bose-Landing-Page\package.json133573731285903734 0
 97D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133573395766144231 0
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\domutils\lib\manipulation.js133573395663987757 0
 75D:\IT\Test Tasks\Bose-Landing-Page\node_modules\is-binary-path\package.json133573401738921214 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\SZ.js133573395850527133 0
+45D:\IT\Test Tasks\Bose-Landing-Page\.gitignore133573732712834408 0
 84D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\lib\replace\atrule\keyframes.js133573395759642575 0
 71D:\IT\Test Tasks\Bose-Landing-Page\src\styles\blocks\section-title.scss133573616526778120 0
 74D:\IT\Test Tasks\Bose-Landing-Page\node_modules\nth-check\lib\esm\index.js133573395653121376 0
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\sass\types\value\string.d.ts133573401742769824 0
 77D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\workers\lib\Handle.js133573395713732189 0
 68D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\core\binding.js133573395652881488 0
-39D:\IT\Test Tasks\Bose-Landing-Page\dist133573642168921664 1
+39D:\IT\Test Tasks\Bose-Landing-Page\dist133573732998947427 1
+119D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupListOfValues.js133573395695297531 0
+82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-addon-api\tools\check-napi.js133573395698974808 0
+89D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\input-range.js133573395798941909 0
+69D:\IT\Test Tasks\Bose-Landing-Page\node_modules\argparse\package.json133573395669120020 0
+70D:\IT\Test Tasks\Bose-Landing-Page\node_modules\timsort\src\timsort.js133573395687621623 0
+45D:\IT\Test Tasks\Bose-Landing-Page\index.html133573731636193324 0
+132D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133573395724724735 0
+65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\tslib\LICENSE.txt133573395698974808 0
 96D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-select\lib\esm\pseudo-selectors\index.js.map133573395743605594 0
 93D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133573395792755568 0
 54D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@babel133573395615423281 1
@@ -77,13 +75,8 @@
 74D:\IT\Test Tasks\Bose-Landing-Page\node_modules\nth-check\lib\parse.js.map133573395709289526 0
 82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\logger\test\Logger.test.js133573395668509180 0
 60D:\IT\Test Tasks\Bose-Landing-Page\node_modules\import-fresh133573395654492631 1
-38D:\IT\Test Tasks\Bose-Landing-Page\src133573415061577119 1
+38D:\IT\Test Tasks\Bose-Landing-Page\src133573730561028176 1
 75D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-addon-api\package.json133573395709319514 0
-69D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\lib\svgo-node.js133573395717243230 0
-91D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_async_iterator\package.json133573395780320203 0
-49D:\IT\Test Tasks\Bose-Landing-Page\src\index.html133573641250693494 0
-82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\cjs\syntax\config\mix.cjs133573395761132795 0
-76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\parser\index.js133573395780522888 0
 65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@msgpackr-extract133573401748019381 1
 107D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common133573395771983105 1
 66D:\IT\Test Tasks\Bose-Landing-Page\node_modules\boolbase\README.md133573395639374214 0
@@ -130,6 +123,7 @@
 72D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_ts_param133573395786967055 1
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\plugins\applyTransforms.js133573395736379127 0
 63D:\IT\Test Tasks\Bose-Landing-Page\src\styles\utils\mixins.scss133573580247865575 0
+59D:\IT\Test Tasks\Bose-Landing-Page\node_modules\ansi-styles133573395654502579 1
 120D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\parser.js133573395767997667 0
 57D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@trysound133573395615393090 1
 93D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\lib\utils\clone.js133573395774502948 0
@@ -167,7 +161,7 @@
 66D:\IT\Test Tasks\Bose-Landing-Page\src\images\header-bg-mobile.png133573286102080269 0
 78D:\IT\Test Tasks\Bose-Landing-Page\node_modules\chokidar\lib\nodefs-handler.js133573401740916666 0
 72D:\IT\Test Tasks\Bose-Landing-Page\node_modules\semver\internal\debug.js133573395687483278 0
-68D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-menu-hover.8e18887a.png133573641960583877 0
+68D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-menu-hover.8e18887a.png133573732998096866 0
 61D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-releases133573395663223625 1
 80D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\cjs\_instanceof.cjs133573395745545191 0
 69D:\IT\Test Tasks\Bose-Landing-Page\node_modules\source-map-js\LICENSE133573395630902437 0
@@ -305,6 +299,14 @@
 81D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-addon-api\node_addon_api.gyp133573395638582174 0
 65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\dependencies133573395774135722 1
 73D:\IT\Test Tasks\Bose-Landing-Page\src\images\categories\headphones-1.png133573570161021253 0
+56D:\IT\Test Tasks\Bose-Landing-Page\node_modules\readdirp133573401740792171 1
+86D:\IT\Test Tasks\Bose-Landing-Page\node_modules\type-fest\source\conditional-pick.d.ts133573395688657971 0
+98D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib133573395733191643 1
+94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_non_iterable_rest\package.json133573395785296599 0
+62D:\IT\Test Tasks\Bose-Landing-Page\node_modules\normalize-path133573401740633582 1
+97D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\es6-string-includes.js133573395788014271 0
+123D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\border.js133573395700589854 0
+73D:\IT\Test Tasks\Bose-Landing-Page\src\images\categories\headphones-2.png133573570443418664 0
 56D:\IT\Test Tasks\Bose-Landing-Page\node_modules\escalade133573395671956673 1
 98D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-select\node_modules\entities\lib\esm\encode.js133573395701706372 0
 119D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyText.js133573395743870391 0
@@ -328,7 +330,6 @@
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\semver\functions\rcompare.js133573395731624719 0
 73D:\IT\Test Tasks\Bose-Landing-Page\node_modules\resolve-from\package.json133573395633192295 0
 52D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc133573401748029392 1
-59D:\IT\Test Tasks\Bose-Landing-Page\node_modules\ansi-styles133573395654502579 1
 68D:\IT\Test Tasks\Bose-Landing-Page\node_modules\posthtml-parser\dist133573395686907932 1
 101D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@babel\highlight\node_modules\supports-color\index.js133573395648241396 0
 56D:\IT\Test Tasks\Bose-Landing-Page\node_modules\anymatch133573401740682216 1
@@ -439,7 +440,6 @@
 69D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-swc133573395666638910 1
 96D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133573395760838815 0
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\type-fest\source\opaque.d.ts133573395722414286 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\headphones-2.0b4b2aca.png.7660.5p133573640240016434 0
 56D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree133573395785276620 1
 55D:\IT\Test Tasks\Bose-Landing-Page\node_modules\timsort133573395681560991 1
 94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\lexer\index.cjs133573395749176032 0
@@ -621,7 +621,6 @@
 109D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-generate.cjs133573395744221678 0
 78D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\plugins\preset-default.js133573395750698212 0
 73D:\IT\Test Tasks\Bose-Landing-Page\node_modules\parcel\src\.eslintrc.json133573395673466466 0
-58D:\IT\Test Tasks\Bose-Landing-Page\dist\index.4ee4707b.css133573642168881688 0
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\msgpackr-extract\binding.gyp133573395655466092 0
 62D:\IT\Test Tasks\Bose-Landing-Page\node_modules\ordered-binary133573395705972486 1
 64D:\IT\Test Tasks\Bose-Landing-Page\node_modules\globals\index.js133573395639689468 0
@@ -926,7 +925,6 @@
 82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\type-fest\ts41\delimiter-case.d.ts133573395691835545 0
 81D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\runtime-react-refresh\lib133573395651236626 1
 88D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133573395774492971 0
-64D:\IT\Test Tasks\Bose-Landing-Page\dist\sound-waves.3f16d59c.png133573399062044196 0
 120D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133573395653535466 0
 97D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\src\_possible_constructor_return.mjs133573395792144425 0
 83D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\lib\svgo\css-select-adapter.js133573395724724735 0
@@ -940,7 +938,6 @@
 71D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\types\unsafe.js133573395672801759 0
 99D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\workers\test\integration\workerfarm\ping.js133573395726614625 0
 57D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\dict133573395778692257 1
-62D:\IT\Test Tasks\Bose-Landing-Page\dist\index.4ee4707b.css.map133573642168911855 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\type-fest\ts41\pascal-case.d.ts133573395724340997 0
 85D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\lib\replace\AttributeSelector.js133573395746679438 0
 71D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\dist\index.cjs.map133573395777451078 0
@@ -1052,13 +1049,6 @@
 73D:\IT\Test Tasks\Bose-Landing-Page\node_modules\tslib\CopyrightNotice.txt133573395696157539 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\dependencies\lz4\lib\lz4.h133573395773102564 0
 75D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\lexer\match.js133573395781368531 0
-119D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupListOfValues.js133573395695297531 0
-82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-addon-api\tools\check-napi.js133573395698974808 0
-89D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\input-range.js133573395798941909 0
-69D:\IT\Test Tasks\Bose-Landing-Page\node_modules\argparse\package.json133573395669120020 0
-70D:\IT\Test Tasks\Bose-Landing-Page\node_modules\timsort\src\timsort.js133573395687621623 0
-132D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133573395724724735 0
-65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\tslib\LICENSE.txt133573395698974808 0
 69D:\IT\Test Tasks\Bose-Landing-Page\node_modules\msgpackr\iterators.js133573395722721594 0
 66D:\IT\Test Tasks\Bose-Landing-Page\node_modules\tslib\package.json133573395669944795 0
 63D:\IT\Test Tasks\Bose-Landing-Page\node_modules\tslib\README.md133573395675098489 0
@@ -1137,6 +1127,8 @@
 73D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\cjs\replace\property133573395719120881 1
 94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\htmlnano\lib\modules\removeEmptyAttributes.cjs133573395723922959 0
 68D:\IT\Test Tasks\Bose-Landing-Page\node_modules\term-size\index.d.ts133573395694439782 0
+79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\PN.js133573395846545566 0
+65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\term-size\license133573395657003595 0
 64D:\IT\Test Tasks\Bose-Landing-Page\node_modules\term-size\vendor133573395669611075 1
 105D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-select\node_modules\dom-serializer\lib\esm\index.d.ts133573395700559861 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\profiler\lib\types.d.ts133573395711284632 0
@@ -1241,7 +1233,6 @@
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\BN.js133573395758551333 0
 67D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\lib\types.d.ts133573395727509143 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\plugins\removeEmptyText.js133573395756632894 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\sunglasses-2.4e7db703.png.8096.a1133573590033522264 0
 86D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\runtime-js\lib\helpers\browser133573395737916611 1
 78D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\plugins\removeMetadata.js133573395757630843 0
 82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\core\test\fixtures\context133573395781144317 1
@@ -1339,6 +1330,8 @@
 63D:\IT\Test Tasks\Bose-Landing-Page\node_modules\is-json\LICENSE133573395651720008 0
 125D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\ClassSelector.js133573395701286508 0
 65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\lib\style.js133573395713293456 0
+69D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\lib\svgo-node.js133573395717243230 0
+91D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_async_iterator\package.json133573395780320203 0
 71D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\core\src\public133573395778462056 1
 70D:\IT\Test Tasks\Bose-Landing-Page\node_modules\supports-color\license133573395633202289 0
 64D:\IT\Test Tasks\Bose-Landing-Page\node_modules\svgo\lib\xast.js133573395728364200 0
@@ -1414,6 +1407,8 @@
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\source-map\lib\base64-vlq.js133573395666323876 0
 78D:\IT\Test Tasks\Bose-Landing-Page\node_modules\msgpackr\dist\index.min.js.map133573395745045256 0
 77D:\IT\Test Tasks\Bose-Landing-Page\node_modules\source-map\lib\source-node.js133573395696276268 0
+82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\parser\SyntaxError.js133573395783922416 0
+79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\NU.js133573395840027623 0
 94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\esm\_class_private_method_init.js133573395771687873 0
 83D:\IT\Test Tasks\Bose-Landing-Page\node_modules\source-map\dist\source-map.debug.js133573395713562767 0
 77D:\IT\Test Tasks\Bose-Landing-Page\node_modules\source-map\dist\source-map.js133573395722424275 0
@@ -1881,7 +1876,6 @@
 78D:\IT\Test Tasks\Bose-Landing-Page\node_modules\nth-check\lib\esm\package.json133573395672801759 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\NP.js133573395833899818 0
 71D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-addon-api\index.js133573395705625660 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\headphones-2.0b4b2aca.png.8096.9u133573590033473300 0
 94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\.bin\node-gyp-build-optional-packages-optional133573395854845323 0
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\nth-check\lib\esm\parse.d.ts133573395722926701 0
 112D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\dist\csstree.min.js133573395736996503 0
@@ -1909,7 +1903,7 @@
 88D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-gyp-build-optional-packages\LICENSE133573395639875393 0
 93D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-gyp-build-optional-packages\package.json133573395670819150 0
 90D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-gyp-build-optional-packages\README.md133573395676099849 0
-65D:\IT\Test Tasks\Bose-Landing-Page\dist\headphones-1.72af821e.png133573641273755210 0
+65D:\IT\Test Tasks\Bose-Landing-Page\dist\headphones-1.72af821e.png133573732998703284 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\htmlnano\lib\modules\custom.cjs133573395676020750 0
 85D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs133573395751232527 0
 77D:\IT\Test Tasks\Bose-Landing-Page\node_modules\mdn-data\api\inheritance.json133573395695504672 0
@@ -1954,7 +1948,6 @@
 56D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\bin133573395774822178 1
 72D:\IT\Test Tasks\Bose-Landing-Page\node_modules\js-yaml\lib\exception.js133573395679523606 0
 78D:\IT\Test Tasks\Bose-Landing-Page\node_modules\node-addon-api\tools\README.md133573395717774395 0
-58D:\IT\Test Tasks\Bose-Landing-Page\dist\index.7a57f720.css133573399062064162 0
 77D:\IT\Test Tasks\Bose-Landing-Page\node_modules\msgpackr-extract\package.json133573395671956673 0
 77D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\packager-html\LICENSE133573395649349758 0
 85D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\utils\src\prettyDiagnostic.js133573395756752825 0
@@ -2237,7 +2230,6 @@
 94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\css-not-sel-list.js133573395781177151 0
 72D:\IT\Test Tasks\Bose-Landing-Page\node_modules\domutils\lib\legacy.d.ts133573395713652729 0
 99D:\IT\Test Tasks\Bose-Landing-Page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133573395743920849 0
-62D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-menu.0b2ceb90.png133573399062044196 0
 102D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\README.md133573395774492971 0
 106D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133573395784012359 0
 101D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\svgo\package.json133573395760964088 0
@@ -2805,7 +2797,6 @@
 66D:\IT\Test Tasks\Bose-Landing-Page\node_modules\domhandler\LICENSE133573395633022118 0
 71D:\IT\Test Tasks\Bose-Landing-Page\node_modules\domhandler\package.json133573395653156646 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\esm\_instanceof.js133573395774650997 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\sunglasses-1.105cb908.png.7660.5r133573640239630371 0
 68D:\IT\Test Tasks\Bose-Landing-Page\node_modules\domhandler\readme.md133573395669954783 0
 120D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133573395748222220 0
 73D:\IT\Test Tasks\Bose-Landing-Page\node_modules\domhandler\lib\index.d.ts133573395674021893 0
@@ -2905,7 +2896,7 @@
 65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\package.json133573395766879586 0
 62D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\README.md133573395767122522 0
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\cjs\utils\names.cjs133573395761461707 0
-62D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-menu.a267a292.png133573641960583877 0
+62D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-menu.a267a292.png133573732998400475 0
 113D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeViewBox.js133573395752757070 0
 89D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\cjs\restructure\3-disjoinRuleset.cjs133573395653206615 0
 74D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree133573395784986698 1
@@ -3126,7 +3117,7 @@
 64D:\IT\Test Tasks\Bose-Landing-Page\node_modules\clone\.npmignore133573395650346641 0
 106D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\parse.cjs133573395761801756 0
 98D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\tokenizer\utils.cjs133573395771005996 0
-57D:\IT\Test Tasks\Bose-Landing-Page\dist\logo.c493797d.png133573641272487970 0
+57D:\IT\Test Tasks\Bose-Landing-Page\dist\logo.c493797d.png133573732998076860 0
 109D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\generate.cjs133573395738607694 0
 123D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.schema.json133573395710419439 0
 92D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\syntax\config133573395772323975 1
@@ -3226,7 +3217,6 @@
 106D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\index.cjs133573395748192010 0
 110D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\tokenizer.cjs133573395769353582 0
 92D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\css-cross-fade.js133573395777108020 0
-62D:\IT\Test Tasks\Bose-Landing-Page\dist\index.7a57f720.css.map133573399062494349 0
 105D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133573395772182953 0
 99D:\IT\Test Tasks\Bose-Landing-Page\node_modules\csso\node_modules\css-tree\cjs\convertor\create.cjs133573395711444085 0
 73D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\core\src\utils.js133573395779997745 0
@@ -3379,8 +3369,8 @@
 81D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\syntax\config\mix.js133573395781645352 0
 93D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\syntax\config\parser-selector.js133573395782453967 0
 77D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\parser\create.js133573395775998080 0
-82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\parser\SyntaxError.js133573395783922416 0
-79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\NU.js133573395840027623 0
+82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\cjs\syntax\config\mix.cjs133573395761132795 0
+76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\parser\index.js133573395780522888 0
 75D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\lexer\error.js133573395779009679 0
 87D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133573395779522646 0
 87D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\clipboard.js133573395769875873 0
@@ -3425,7 +3415,7 @@
 87D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\node-resolver-core\lib\index.js133573395669471225 0
 66D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\cjs\lexer133573395772023069 1
 73D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_construct133573395782970181 1
-63D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-phone.217bf46b.png133573641960593868 0
+63D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-phone.217bf46b.png133573732998086866 0
 67D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\cjs\syntax133573395754881626 1
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\packager-raw\LICENSE133573395649339778 0
 70D:\IT\Test Tasks\Bose-Landing-Page\node_modules\css-tree\cjs\tokenizer133573395772772407 1
@@ -3927,7 +3917,7 @@
 111D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133573395722404297 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\AX.js133573395744764049 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\BB.js133573395752024193 0
-78D:\IT\Test Tasks\Bose-Landing-Page\dist\color-bluetooth-speaker-2.4db26266.png133573641272878219 0
+78D:\IT\Test Tasks\Bose-Landing-Page\dist\color-bluetooth-speaker-2.4db26266.png133573732996021094 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\BE.js133573395753294816 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\BF.js133573395754821663 0
 81D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\eot.js133573395787586221 0
@@ -3994,7 +3984,7 @@
 65D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\graph\src133573395723852760 1
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\GW.js133573395796121151 0
 108D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_object_without_properties_loose\package.json133573395785623336 0
-65D:\IT\Test Tasks\Bose-Landing-Page\dist\sunglasses-1.105cb908.png133573641273347952 0
+65D:\IT\Test Tasks\Bose-Landing-Page\dist\sunglasses-1.105cb908.png133573732998236780 0
 83D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\woff2.js133573395853668210 0
 114D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.d.ts133573395725248264 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\GY.js133573395796227453 0
@@ -4004,7 +3994,6 @@
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\HR.js133573395797764631 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\ID.js133573395798149997 0
 84D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\stream.js133573395850094035 0
-82D:\IT\Test Tasks\Bose-Landing-Page\dist\Bose-Landing-Page.59712999.js.map.16688.1v133573472938185188 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\IE.js133573395798159988 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\IM.js133573395798324320 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\IQ.js133573395799342638 0
@@ -4034,7 +4023,6 @@
 115D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\match.js133573395759662481 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\LB.js133573395800802072 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\LC.js133573395800812067 0
-71D:\IT\Test Tasks\Bose-Landing-Page\dist\header-bg.8ec50a9a.png.16688.1l133573472938185188 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\LS.js133573395801422915 0
 79D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\regions\LT.js133573395801452900 0
 86D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\src\_write_only_error.mjs133573395793742857 0
@@ -4275,7 +4263,6 @@
 101D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js133573395786692810 0
 121D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\AttributeSelector.js133573395694066168 0
 93D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\document-policy.js133573395786773930 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\sunglasses-2.4e7db703.png.7660.5z133573640240271320 0
 89D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\core\test\fixtures\custom-targets133573395781358530 1
 90D:\IT\Test Tasks\Bose-Landing-Page\node_modules\caniuse-lite\data\features\documenthead.js133573395786824110 0
 86D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\packager-js\src\dev-prelude.js133573395672169666 0
@@ -4692,6 +4679,7 @@
 80D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_get\package.json133573395783982371 0
 92D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\source-map\parcel_sourcemap_node\src133573395769214285 1
 88D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_export_star\package.json133573395783633859 0
+84D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_dispose\package.json133573395783606286 0
 85D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_decorate\package.json133573395783190047 0
 89D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_create_super\package.json133573395783170056 0
 112D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose\package.json133573395783140080 0
@@ -4853,7 +4841,6 @@
 70D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\logger\LICENSE133573395649239646 0
 81D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\cjs\_ts_decorate.cjs133573395760309972 0
 82D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\cjs\_ts_generator.cjs133573395760649799 0
-70D:\IT\Test Tasks\Bose-Landing-Page\dist\index.4ee4707b.css.map.18388.w133573605707856880 0
 78D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\cjs\_ts_param.cjs133573395761172755 0
 75D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\cjs\_using.cjs133573395762513380 0
 87D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@swc\helpers\cjs\_wrap_native_super.cjs133573395764955563 0
@@ -5019,7 +5006,6 @@
 91D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-svg\lib\dependencies.js133573395654669227 0
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-sass\lib133573401747426162 1
 80D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-sass\LICENSE133573401747406182 0
-62D:\IT\Test Tasks\Bose-Landing-Page\dist\header-bg.b30fa5f2.png133573399062044196 0
 95D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-sass\src\SassTransformer.js133573401747708896 0
 95D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-sass\lib\SassTransformer.js133573401747446182 0
 94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133573395649319772 0
@@ -5027,7 +5013,6 @@
 99D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-react-refresh-wrap\package.json133573395687265997 0
 90D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-react-refresh-wrap\src133573395676623542 1
 121D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-react-refresh-wrap\src\ReactRefreshWrapTransformer.js133573395678522266 0
-67D:\IT\Test Tasks\Bose-Landing-Page\dist\footer.0a9dda45.png.7660.61133573640239675426 0
 113D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json133573395683610205 0
 114D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\at-rules.json133573395667466458 0
 109D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133573395665500771 0
@@ -5276,7 +5261,6 @@
 76D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\package-manager\test133573395735863388 1
 85D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\package-manager\test\fixtures133573395741390452 1
 109D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\package-manager\test\getCurrentPackageManager.test.js133573395662670353 0
-63D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-phone.d5178216.png133573399062044196 0
 103D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\package-manager\test\NodePackageManager.test.js133573395729434109 0
 109D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133573395736159251 0
 91D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\package-manager\test\fixtures\empty133573395740720586 1
@@ -5449,7 +5433,7 @@
 124D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\nth.js133573395766110555 0
 133D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\selectorList.js133573395769885860 0
 119D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\AnPlusB.js133573395653968416 0
-59D:\IT\Test Tasks\Bose-Landing-Page\dist\footer.0a9dda45.png133573641961741157 0
+59D:\IT\Test Tasks\Bose-Landing-Page\dist\footer.0a9dda45.png133573732996359546 0
 118D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Atrule.js133573395661522391 0
 129D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133573395681283007 0
 117D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Block.js133573395686148303 0
@@ -5542,7 +5526,7 @@
 127D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupEnableBackground.js133573395688252980 0
 114D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupIDs.js133573395691112783 0
 118D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\collapseGroups.js133573395703391342 0
-62D:\IT\Test Tasks\Bose-Landing-Page\dist\index.38ec9247.css.map133573401769876208 0
+62D:\IT\Test Tasks\Bose-Landing-Page\dist\index.38ec9247.css.map133573732998196795 0
 126D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertEllipseToCircle.js133573395709025903 0
 123D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertStyleToAttrs.js133573395717222492 0
 120D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertTransform.js133573395721242873 0
@@ -5591,7 +5575,6 @@
 106D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\README.md133573395726273603 0
 110D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\css.json133573395686392235 0
 110D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\index.js133573395661322277 0
-71D:\IT\Test Tasks\Bose-Landing-Page\dist\speakers-2.9429a735.png.7660.5t133573640240271320 0
 116D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.json133573395709075918 0
 115D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.json133573395713382867 0
 122D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.schema.json133573395717273293 0
@@ -5988,7 +5971,6 @@
 94D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@babel\highlight\node_modules\has-flag\license133573395648231356 0
 99D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@babel\highlight\node_modules\has-flag\package.json133573395633350663 0
 99D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@babel\highlight\node_modules\color-name\.npmignore133573395639769422 0
-77D:\IT\Test Tasks\Bose-Landing-Page\dist\Bose-Landing-Page.59712999.js.5504.10133573590699310975 0
 96D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@babel\highlight\node_modules\color-name\LICENSE133573395651720008 0
 101D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@babel\highlight\node_modules\color-name\package.json133573395633350663 0
 98D:\IT\Test Tasks\Bose-Landing-Page\node_modules\@babel\highlight\node_modules\color-name\README.md133573395648521192 0
@@ -6026,27 +6008,15 @@
 63D:\IT\Test Tasks\Bose-Landing-Page\node_modules\.bin\semver.cmd133573395854845323 0
 57D:\IT\Test Tasks\Bose-Landing-Page\node_modules\.bin\svgo133573395854845323 0
 61D:\IT\Test Tasks\Bose-Landing-Page\node_modules\.bin\svgo.ps1133573395854845323 0
-70D:\IT\Test Tasks\Bose-Landing-Page\dist\header-bg.8ec50a9a.png.7660.60133573640240271320 0
-70D:\IT\Test Tasks\Bose-Landing-Page\dist\header-bg.8ec50a9a.png.8096.a2133573590033532258 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\headphones-1.72af821e.png.7660.5m133573640240016434 0
-58D:\IT\Test Tasks\Bose-Landing-Page\dist\index.38ec9247.css133573401769582093 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\headphones-1.72af821e.png.8096.9v133573590033522264 0
-63D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-close.63b6ce29.png133573399062044196 0
-57D:\IT\Test Tasks\Bose-Landing-Page\dist\logo.1ffe658d.png133573399061235197 0
-71D:\IT\Test Tasks\Bose-Landing-Page\dist\speakers-1.8c09c3e6.png.7660.5q133573640240026469 0
-71D:\IT\Test Tasks\Bose-Landing-Page\dist\speakers-1.8c09c3e6.png.8096.9x133573590033522264 0
-71D:\IT\Test Tasks\Bose-Landing-Page\dist\speakers-2.9429a735.png.8096.9y133573590033522264 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\sunglasses-1.105cb908.png.8096.9w133573590033522264 0
 56D:\IT\Test Tasks\Bose-Landing-Page\.vscode\settings.json133573286102080269 0
-50D:\IT\Test Tasks\Bose-Landing-Page\dist\index.html133573641270948497 0
-69D:\IT\Test Tasks\Bose-Landing-Page\dist\Bose-Landing-Page.59712999.js133573641271098399 0
-73D:\IT\Test Tasks\Bose-Landing-Page\dist\Bose-Landing-Page.59712999.js.map133573641272487970 0
-75D:\IT\Test Tasks\Bose-Landing-Page\dist\flex-bluetooth-speaker.f432e5ca.png133573641272808262 0
-75D:\IT\Test Tasks\Bose-Landing-Page\dist\portable-smart-speaker.a5151597.png133573641272838247 0
-65D:\IT\Test Tasks\Bose-Landing-Page\dist\headphones-2.0b4b2aca.png133573641273507865 0
-63D:\IT\Test Tasks\Bose-Landing-Page\dist\speakers-2.9429a735.png133573641273805175 0
-65D:\IT\Test Tasks\Bose-Landing-Page\dist\sunglasses-2.4e7db703.png133573641274085020 0
-63D:\IT\Test Tasks\Bose-Landing-Page\dist\speakers-1.8c09c3e6.png133573641274135016 0
-64D:\IT\Test Tasks\Bose-Landing-Page\dist\sound-waves.47f037b6.png133573641960583877 0
-63D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-close.6f3ede5c.png133573641960583877 0
-62D:\IT\Test Tasks\Bose-Landing-Page\dist\header-bg.8ec50a9a.png133573641961538622 0
+50D:\IT\Test Tasks\Bose-Landing-Page\dist\index.html133573731664223034 0
+75D:\IT\Test Tasks\Bose-Landing-Page\dist\flex-bluetooth-speaker.f432e5ca.png133573732995982850 0
+58D:\IT\Test Tasks\Bose-Landing-Page\dist\index.38ec9247.css133573732998086866 0
+64D:\IT\Test Tasks\Bose-Landing-Page\dist\sound-waves.47f037b6.png133573732998086866 0
+63D:\IT\Test Tasks\Bose-Landing-Page\dist\icon-close.6f3ede5c.png133573732998086866 0
+75D:\IT\Test Tasks\Bose-Landing-Page\dist\portable-smart-speaker.a5151597.png133573732998086866 0
+65D:\IT\Test Tasks\Bose-Landing-Page\dist\headphones-2.0b4b2aca.png133573732998535206 0
+63D:\IT\Test Tasks\Bose-Landing-Page\dist\speakers-2.9429a735.png133573732998703284 0
+62D:\IT\Test Tasks\Bose-Landing-Page\dist\header-bg.8ec50a9a.png133573732998852372 0
+65D:\IT\Test Tasks\Bose-Landing-Page\dist\sunglasses-2.4e7db703.png133573732998852372 0
+63D:\IT\Test Tasks\Bose-Landing-Page\dist\speakers-1.8c09c3e6.png133573732998852372 0
