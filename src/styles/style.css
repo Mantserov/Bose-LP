@@ -463,7 +463,7 @@
 
 .button {
   height: 56px;
-  width: 280px;
+  width: 100%;
   background-color: #292929;
   border-radius: 40px;
   color: #ffffff;
@@ -471,38 +471,110 @@
   font-weight: 700;
   line-height: 27px;
   transition: all 0.3s ease;
+  cursor: pointer;
 }
 .button:hover {
   background-color: #ffffff;
   border: 3px solid #292929;
   color: #292929;
 }
-
-.conctacts__content {
-  display: flex;
-  flex-direction: column;
+.button:active {
+  background-color: #111111;
+  color: #ffffff;
 }
-.conctacts__form {
+.button--contacts {
+  margin-bottom: 48px;
+}
+
+.contacts__content {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   column-gap: 20px;
-  margin-bottom: 32px;
 }
 @media (min-width: 576px) {
-  .conctacts__form {
+  .contacts__content {
     grid-template-columns: repeat(6, 1fr);
     column-gap: 24px;
   }
 }
 @media (min-width: 1024px) {
-  .conctacts__form {
+  .contacts__content {
     grid-template-columns: repeat(12, 1fr);
   }
+}
+.contacts__form {
+  grid-column: 1/-1;
+}
+@media (min-width: 576px) {
+  .contacts__form {
+    grid-column: span 3;
+  }
+}
+@media (min-width: 1024px) {
+  .contacts__form {
+    grid-column: span 5;
+  }
+}
+.contacts__input {
+  font-size: 14px;
+  color: #7e7e83;
+  display: block;
+  background-color: #f8f8fa;
+  height: 48px;
+  width: 100%;
+  border-radius: 40px;
+  border: none;
+  padding-left: 16px;
+  margin-bottom: 16px;
+}
+.contacts__input:hover {
+  border: 1px solid #d5d7de;
+}
+.contacts__text-area {
+  color: #7e7e83;
+  font-size: 14px;
+  font-family: inherit;
+  background-color: #f8f8fa;
+  height: 148px;
+  width: 100%;
+  border: none;
+  padding: 14px 0 0 16px;
+  border-radius: 16px;
+  margin-bottom: 32px;
+  resize: none;
+}
+.contacts__text-area:hover {
+  border: 1px solid #d5d7de;
+}
+.contacts__info {
+  grid-column: 1/-1;
+}
+@media (min-width: 576px) {
+  .contacts__info {
+    grid-column: span 3;
+  }
+}
+@media (min-width: 1024px) {
+  .contacts__info {
+    grid-column: 8/10;
+  }
+}
+.contacts__info-title {
+  color: #9fadc2;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+.contacts__info-value {
+  font-size: 16px;
+  margin-bottom: 24px;
+}
+.contacts__info-value:last-child {
+  margin-bottom: 0;
 }
 
 .footer {
   background-image: url(/src/images/footer.png);
-  height: 200;
+  height: 200px;
   width: 100%;
   background-size: cover;
   background-position: center;

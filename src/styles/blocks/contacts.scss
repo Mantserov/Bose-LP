@@ -1,11 +1,79 @@
-.conctacts {
+.contacts {
   &__content {
-    display: flex;
-    flex-direction: column;
+    @include pageGrid;
   }
 
   &__form {
-    @include pageGrid;
+    grid-column: 1 / -1;
+
+    @include onTablet {
+      grid-column: span 3;
+    }
+
+    @include onDesktop {
+      grid-column: span 5;
+    }
+  }
+
+  &__input {
+    font-size: 14px;
+    color: #7e7e83;
+    display: block;
+    background-color: #f8f8fa;
+    height: 48px;
+    width: 100%;
+    border-radius: 40px;
+    border: none;
+    padding-left: 16px;
+    margin-bottom: 16px;
+
+    &:hover {
+      border: 1px solid #d5d7de;
+    }
+  }
+
+  &__text-area {
+    color: #7e7e83;
+    font-size: 14px;
+    font-family: inherit;
+    background-color: #f8f8fa;
+    height: 148px;
+    width: 100%;
+    border: none;
+    padding: 14px 0 0 16px;
+    border-radius: 16px;
     margin-bottom: 32px;
+    resize: none;
+
+    &:hover {
+      border: 1px solid #d5d7de;
+    }
+  }
+
+  &__info {
+    grid-column: 1 / -1;
+
+    @include onTablet {
+      grid-column: span 3;
+    }
+
+    @include onDesktop {
+      grid-column: 8 / 10;
+    }
+
+    &-title {
+      color: #9fadc2;
+      font-size: 14px;
+      margin-bottom: 8px;
+    }
+
+    &-value {
+      font-size: 16px;
+      margin-bottom: 24px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
 }

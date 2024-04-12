@@ -1,6 +1,6 @@
 .button {
   height: 56px;
-  width: 280px;
+  width: 100%;
   background-color: $main-text-color;
   border-radius: 40px;
 
@@ -9,10 +9,20 @@
   font-weight: 700;
   line-height: 27px;
   transition: all 0.3s ease;
+  cursor: pointer;
 
   &:hover {
     background-color: #ffffff;
     border: 3px solid $main-text-color;
     color: $main-text-color;
+  }
+
+  &:active {
+    background-color: #111111;
+    color: #ffffff;
+  }
+
+  &--contacts {
+    margin-bottom: 48px;
   }
 }
