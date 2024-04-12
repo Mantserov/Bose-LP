@@ -3,7 +3,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel --open",
-    "build": "parcel build --public-url=/dist/"
+    "build": "parcel build --public-url=/Bose-Landing-Page/"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.12.0",
